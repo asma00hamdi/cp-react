@@ -1,0 +1,27 @@
+.nav{
+background-color: pink ;
+color: white;
+height: 100px;
+display: flex;
+align-items: center;
+
+}
+.nav ul{
+  display: flex;
+  list-style: none;
+width: 100%;
+justify-content: space-around;
+align-items: center;
+}
+.nav ul li {
+  color:blue;
+ font-size: 40px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.form{
+  background-color: rgb(207, 243, 222) ;
+ font-size: 20px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color: crimson;
+}
